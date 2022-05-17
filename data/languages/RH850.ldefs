@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<language_definitions>
+  <language processor="Zeekr-RH850"
+            endian="little"
+            size="32"
+            variant="default"
+            version="1.0"
+            slafile="RH850.sla"
+            processorspec="RH850.pspec"
+            manualindexfile="../manuals/RH850.idx"
+            id="RH850:LE:32:default">
+    <description>Renesas RH850 family</description>
+    <compiler name="Eclipse" spec="RH850.cspec" id="default"/>
+  </language>
+</language_definitions>
